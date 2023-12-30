@@ -1,0 +1,7 @@
+D:\all-project\y-coding-practice\C-sharp\1_C-sharp_w3\SohanTest1\SohanTest1\bin\Debug\SohanTest1.exe.config
+D:\all-project\y-coding-practice\C-sharp\1_C-sharp_w3\SohanTest1\SohanTest1\bin\Debug\SohanTest1.exe
+D:\all-project\y-coding-practice\C-sharp\1_C-sharp_w3\SohanTest1\SohanTest1\bin\Debug\SohanTest1.pdb
+D:\all-project\y-coding-practice\C-sharp\1_C-sharp_w3\SohanTest1\SohanTest1\obj\Debug\SohanTest1.csproj.AssemblyReference.cache
+D:\all-project\y-coding-practice\C-sharp\1_C-sharp_w3\SohanTest1\SohanTest1\obj\Debug\SohanTest1.csproj.CoreCompileInputs.cache
+D:\all-project\y-coding-practice\C-sharp\1_C-sharp_w3\SohanTest1\SohanTest1\obj\Debug\SohanTest1.exe
+D:\all-project\y-coding-practice\C-sharp\1_C-sharp_w3\SohanTest1\SohanTest1\obj\Debug\SohanTest1.pdb
